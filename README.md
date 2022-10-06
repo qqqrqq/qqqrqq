@@ -1,7 +1,10 @@
 
 
 - 👋 Hi, I’m Roman Medvedev
-- 🌱 I’m currently learning frontend science (JS,React,Redux)
+- 🌱 I’m currently learning frontend science
 - 👯 [My portfolio](https://qqqrqq.github.io/portfolio/)
 - 📫 How to reach me: romamedv298@gmail.com, [Telegram](https://t.me/jajajaja21)
--->
+
+Languages and tools:
+
+![JavaScript](https://img.shields.io/badge/-<JavaScript>-F7DB0B?style=for-the-badge&logo=javascript)
