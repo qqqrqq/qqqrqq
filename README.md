@@ -12,7 +12,7 @@ Languages and tools:
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
-![TypeScript](https://img.shields.io/badge/typescript--090909?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Typescript--090909?style=for-the-badge&logo=Typescript)
 
 How to reach me:
 
