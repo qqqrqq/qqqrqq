@@ -1,7 +1,6 @@
 
 
-- 👋 Hi, I’m Roman Medvedev
-- 🌱 I’m currently learning frontend science
+-
 - 👯 [My portfolio](https://qqqrqq.github.io/portfolio/)
 - 🔫 [Hexlet profile](https://ru.hexlet.io/u/user-849622181f2312b9)
 
